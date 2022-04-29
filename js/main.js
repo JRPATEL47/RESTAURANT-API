@@ -1,5 +1,5 @@
 /*
- * Heroku Link:https://secure-thicket-54269.herokuapp.com/
+ * Vercel Link: https://restaurant-mqnefp81g-jrpatel47.vercel.app/
 */
 
 var restaurantData = [];
